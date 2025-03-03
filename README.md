@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
 
-### <div align="center">I'm an Independent Web Designer, Developer & Open Source Enthusiast. I Love Web Penetration Testing & Web Security Researching.</div>
+### <div align="center">I'm Sudarshana Jayamal an Independent Web Designer, Developer & Open Source Enthusiast. I Love Web Penetration Testing & Web Security Researching.</div>
 
 - #### I’m the Founder and Developer of ∞ [INFINITYWARE LK](https://github.com/Infinitywarelk)
 
